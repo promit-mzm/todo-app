@@ -12,8 +12,8 @@ import com.application.util.ConfigurationUtility;
 
 /**
  * 
- * @author jokumar
- * @since 2018-03-25
+ * @author promit
+ * @since 2020-02-23
  * Login Controller to forward to welcome page 	 
  */
 @Controller
