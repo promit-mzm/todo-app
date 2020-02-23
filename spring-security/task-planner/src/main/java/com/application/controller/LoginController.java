@@ -14,7 +14,7 @@ import com.application.util.ConfigurationUtility;
  * 
  * @author promit mazumdar
  * @since 2020-02-23
- * Login Controller to forward to welcome page 	 
+ * Login Controller to forward to welcome page 	directly 
  */
 @Controller
 public class LoginController {
